@@ -5,15 +5,12 @@ A Noughts and Crosses project based in Unity3D has a 3x3 grid structure working 
 https://www.youtube.com/watch?v=ZqN6SPxXUzc&ab_channel=HappyDayzGames
 
 
-# Tic Tac Toe v0.1 - Happy Dayz Games - For Educational Purposes Only:
+# X&O Duel - Happy Dayz Games - For Educational Purposes Only:
 
 "Tic Tac Toe" is a fan-made remake inspired by the original game "OXO (video game)" developed by Sandy Douglas 1952.
 Game Concept and Design.
 
-# X&O Duel:
-
 "Tic Tac Toe" and all related characters, locations, and assets are the intellectual property of Sandy Douglas 1952. All rights reserved. This project is a non-profit, fan-made tribute to the original game.
-
 
 # Disclaimer:
 
